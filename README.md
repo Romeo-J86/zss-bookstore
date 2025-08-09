@@ -24,7 +24,7 @@ Prerequisites
 Java 17 or higher installed
 PostgreSQL installed and running
 Maven installed
-** Since MapStruct is used, mvn clean install is required for the response classes to be created
+Since MapStruct is used, mvn clean install is required for the response classes to be created
 
 What Was Not Completed
 
