@@ -18,7 +18,7 @@ spring:
 
 transaction:
   api:
-    url: https://lab.v.co.zw/interview
+    url: https://lab.v.co.zw/interview/api/transaction
     token:  9ca3d5ed-dc04-4700-8dd6-7d60c3cdf0fa
 
 server:
