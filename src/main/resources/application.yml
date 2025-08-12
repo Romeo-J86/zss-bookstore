@@ -18,8 +18,8 @@ spring:
 
 transaction:
   api:
-    url: https://secure.v.co.zw/interview
-    token: c5cf4d73-34a3-4aec-a6ea-e6483d3a27c6
+    url: https://lab.v.co.zw/interview
+    token:  9ca3d5ed-dc04-4700-8dd6-7d60c3cdf0fa
 
 server:
   port: 8085
